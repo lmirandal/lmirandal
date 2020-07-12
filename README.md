@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola!! 👋
 
 <!--
 **lmirandal/lmirandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Soy una persona apasionada por crear, es por eso que inevitablemente llegué al mundo de la tecnología. Las cosas de la vida y el trabajo me han llevado a no solo interesarme en el código y desarrollo como tal sino en interesarme cada vez más en la gestión de proyectos, como cada decisión o palabra puede llevar al "fracaso" o al "éxito" de una idea. En estos momentos me encuentro realizando un portafolio personal pero el trabajo consume tiempo jaja.
+
+- 🔭 Actualmente me encuentro trabajando como Desarrollador y participo en un Comité de Seguridad e Innovación, el cual fue creado bajo la iniciativa conjunta de mis compañeros ¡Somos la primera generación!
+- 🌱 Actualmente estoy aprendiendo más sobre metodologías ágiles, gestión de proyectos e innovación
+- 😄 Alias: Gode, Gode23, Luchito
